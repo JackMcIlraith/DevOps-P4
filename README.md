@@ -16,4 +16,4 @@ In this practical exercise you will learn how to:
 
 Extra: Build a release on push with tags beggining with 'v'
 
-update readme
+Lol Update to check conditions
