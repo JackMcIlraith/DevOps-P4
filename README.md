@@ -16,4 +16,4 @@ In this practical exercise you will learn how to:
 
 Extra: Build a release on push with tags beggining with 'v'
 
-test new build #ignore
+update readme
