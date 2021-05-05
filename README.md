@@ -15,5 +15,3 @@ In this practical exercise you will learn how to:
 - Automate pull request reviews using GitHub actions  
 
 Extra: Build a release on push with tags beggining with 'v'
-
-Lol Update to check conditions
